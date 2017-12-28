@@ -1,6 +1,8 @@
 # [CS:GO] JailBreak/Last-Request: LEADERBOARD
 An addons to SM Hosties. A top list for LR players.
 
+![screenshot 1](https://image.ibb.co/hmdwZw/lrtop1.jpg)
+![screenshot 2](https://image.ibb.co/gOFM1b/lrtop2.jpg)
 
 ## Commands
   - `!lrtop` - *_Leaderboard menu._*
@@ -52,6 +54,3 @@ CREATE TABLE IF NOT EXISTS leaderboard (
 ## Change log
 - **1.0** - 2017-11-26
   - Release!
-
-## GAMEPLAY
-coming soon!
