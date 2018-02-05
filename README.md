@@ -18,7 +18,7 @@ An addons to SM Hosties. A top list for LR players.
 "lr-leaderboard"
 {
      "driver"   "sqlite"
-     "host      "localhost"
+     "host"      "localhost"
      "database" "lr-leaderboard-sqlite"
      "user"     "root"
      "pass"     ""
